@@ -3,3 +3,5 @@ O projeto é de referência ao livro "Projetos de ciência de dados com Python: 
 de dados bem-sucedidos usando Python, pandas e scikit-learn". Autor: Stephen Klosterman
 
 Aqui implemento alguns algoritmos de aprendizado de máquina e plotagens complementares aos propostos no livro.
+
+Link Colab: https://colab.research.google.com/github/Joaosantos3/Data-Science/blob/main/projeto_data_science_github.ipynb
