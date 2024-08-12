@@ -10,9 +10,8 @@ IMPLEMENTADO: REGRESSÃO LOGÍSTICA, DECISION TREE, RANDOM FOREST, XGBOOST, REDE
 
 Link Colab: https://colab.research.google.com/github/Joaosantos3/Data-Science/blob/main/projeto_data_science_github.ipynb
 
-DATA SCIENCE FINANCAS CARTEIRA
-O projeto de minha autoria para cálculo de retorno, volatilidade de carteira, usando dados do YAHOO FINANCE.
-Fronteira Eficiente de Markowitz para gestão de portifólio e estatística descritiva.
+CARTEIRA_2. Versão 2.0. Atualizada com nova API.
+O projeto de minha autoria para cálculo de retorno, volatilidade de carteira, usando dados do YAHOO FINANCE. Fronteira Eficiente de Markowitz para gestão de portifólio e estatística descritiva.
 
 LINEAR REGRESSION BATCH
 Resolvendo problema de regressão com MULTILAYER PERCEPTRON - REDES NEURAIS.
